@@ -1,0 +1,15 @@
+\documentclass[tikz,border=10pt]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, positioning, fadings, shapes.arrows}
+\definecolor{darkgreen}{rgb}{0,0.5,0}
+\begin{document}
+\begin{tikzpicture}[scale=1.1, >=Stealth]
+
+% Draw an axes with the origin at (0, 0) and the k-axes going from -3 to +1, and the l-axes going from -3 to +3:
+
+\draw[->] (-3,0) -- (1,0) node[right] {$k$};
+\draw[->] (0,-3) -- (0,3) node[above] {$l$};
+
+
+\end{tikzpicture}
+\end{document}
