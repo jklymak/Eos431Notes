@@ -22,7 +22,7 @@ Often it is useful to look at the propagation of a wave in a _Hovmoller diagram_
 $$\eta(x,t) = \eta_0 \sin\left(k x - \omega t + \phi\right),$$
 where $\eta_0=0.1\ \mathrm{m}$, $k = 2\pi/ 450\ \mathrm{rad\,m^{-1}}$,  $\omega = 2\pi/ 30\ \mathrm{rad\, s^{-1}}$ and $\phi = 0.72\ \mathrm{rad}$.  Because both $k$ and $\omega$ are positive, the wave is propagating in the positive $x$ direction, and wave crests and troughs move upwards and to the right in the Hovmoller diagram.  The slope of those lines in the "phase speed".
 
-![Hovmoller diagram](imgs/S04_Hovmoller.svg)
+![Hovmoller diagram](imgs/S04_hovmoller.svg)
 
 ### Group speed
 
