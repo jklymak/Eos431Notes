@@ -1,6 +1,6 @@
 # Wave phenomena:
 
-- shallow water waves
+- Shallow water waves
 - Poincarre waves
 - Kelvin waves
 - Rossby waves
